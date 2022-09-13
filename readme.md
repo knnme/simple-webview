@@ -8,7 +8,7 @@ Features:
  - No title bar
  - Always on top
 
- ![Electron webview](screenshot.png)
+ ![Electron webview](/assets/screenshot.png)
 
  ## Usage
 
